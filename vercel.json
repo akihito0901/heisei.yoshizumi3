@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "https://yoshizumi-seikotsu.pages.dev/", "statusCode": 301 },
+    { "source": "/index.html", "destination": "https://yoshizumi-seikotsu.pages.dev/", "statusCode": 301 },
+    { "source": "/b.html", "destination": "https://yoshizumi-seikotsu.pages.dev/", "statusCode": 301 },
+    { "source": "/b", "destination": "https://yoshizumi-seikotsu.pages.dev/", "statusCode": 301 }
+  ]
+}
